@@ -1,0 +1,9 @@
+http://svcy.myclass.vn/api/SinhVien/LayDanhSachSinhVien
+
+http://svcy.myclass.vn/api/SinhVien/ThemSinhVien
+
+http://svcy.myclass.vn/api/SinhVien/XoaSinhVien/
+
+http://svcy.myclass.vn/api/SinhVien/LayThongTinSinhVien/
+
+http://svcy.myclass.vn/api/SinhVien/CapNhatThongTinSinhVien
